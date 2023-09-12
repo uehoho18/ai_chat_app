@@ -45,5 +45,9 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>音声認識を利用します</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>マイクを利用します</string>
 </dict>
 </plist>
